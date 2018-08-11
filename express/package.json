@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "expressworks": "^3.4.2",
+    "pug": "^2.0.3"
+  }
+}
