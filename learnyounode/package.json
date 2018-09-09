@@ -1,0 +1,15 @@
+{
+  "name": "learn-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "s": "learnyounode",
+    "p": "learnyounode print",
+    "r": "learnyounode run",
+    "v": "learnyounode verify"
+  },
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  }
+}
